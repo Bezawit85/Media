@@ -1,0 +1,8 @@
+.widgets {
+    flex: 0.2;
+
+}
+.widgets_container {
+    display: flex;
+    justify-content: space-evenly;
+}

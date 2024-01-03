@@ -1,0 +1,5 @@
+/node_modules
+/controllers/workoutController.js
+/models/workoutModel.js
+/routes/workouts.js
+/.env

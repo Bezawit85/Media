@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+/src/components/WorkoutDetails.js
+/src/components/WorkoutForm.js
+/src/context/WorkoutContext.js
+/src/hooks/useWorkoutsContext.js
